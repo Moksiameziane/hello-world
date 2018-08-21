@@ -1,5 +1,4 @@
 # hello-world
-hi!
-i love motorcycles !
+I love motorcycles !
 
 The end !
